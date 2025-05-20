@@ -9,5 +9,5 @@ result2 = result1 - float(c)
 final_result = f'{result2} is the answer'
 print(final_result)
 
-# The final result is printed as a string with the message "is the answer"\
+# The final result is printed as a string with the message "is the answer"
 
