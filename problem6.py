@@ -27,5 +27,5 @@ variable4 = [1, 2, 3]
 variable5 = {"key": "value"}
 variable6 = (1, 2, 3)
 variable7 = {1, 2, 3}
-print(f"Variable 1 is of type: {variable2} = {data_type_checker(variable1,variable2)}")
+print(f"Variable 1 is of type: {variable2} = {data_type_checker(variable1)}")
 
